@@ -1,4 +1,4 @@
-# wazuh-siem
+# wazuh-siem (on hold)
 
 Cybersecurity homelab using Wazuh as a SIEM.
 The main objective of this project is to explore how a SIEM works, how to analyse logs and see the different automated responses across different attack scenarios.
